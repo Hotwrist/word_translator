@@ -18,7 +18,7 @@ WHITE='\033[0;37m'
 echo -e "Hello, $USERNAME!\n"
 
 echo "Welcome, i am your alphabet translator"
-echo -e "Give me a word and i will translate it\n"
+echo -e "Give me a word and i will translate it.\n"
 
 read -p "Sentence: " ANSWER
 
